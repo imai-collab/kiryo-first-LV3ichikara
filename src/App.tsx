@@ -4,7 +4,7 @@ import { RefreshCcw, ArrowRight, Play, CheckCircle, ArrowLeft, Trash2, ExternalL
 import { motion, AnimatePresence } from "motion/react";
 import { GoogleGenAI, Type } from "@google/genai";
 
-const DEFAULT_CLEAR_URL = "https://ais-pre-e33pm4ybmbloliwg56zgz7-87151204104.asia-northeast1.run.app/complete?book=02";
+const DEFAULT_CLEAR_URL = "https://ais-pre-e33pm4ybmbloliwg56zgz7-87151204104.asia-northeast1.run.app/complete?book=03";
 
 type PieceType = "K" | "R" | "B" | "G" | "S" | "N" | "L" | "P" | "PR" | "PB" | "PS" | "PN" | "PL" | "PP";
 
